@@ -1,0 +1,74 @@
+body{
+    background-image: url(./images/violet-sundown-with-mountains-river/2820086.jpg);
+    background-size:cover;
+    background-repeat: no repeat;
+}
+
+.container{
+    background-color: transparent;
+    width: 10vw;
+    position: relative;
+    top:100px;
+}
+
+.headi{
+    
+
+        font-family: "Jersey 10", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      
+      
+        font-size: 82px;
+      
+      
+}   
+
+label{
+position: relative;
+font-size: 50px;
+left:200px;
+color: #000000;
+
+    font-family: "Matemasie", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  
+  
+}
+
+.inp{
+    display: block;
+    text-align: center;
+    position: relative;
+    left:450px;
+    top:30px;
+    width:400px;
+    border: 0px;
+}
+
+
+.submit{
+    position: relative;
+    left:550px;
+    top:60px;
+    font-family: "Suez One", serif;
+    font-weight: 400;
+    font-style: normal;
+  
+}
+
+.submit:hover{
+    border:2px solid black;
+}
+
+.result{
+    position: relative;
+    top:100px;
+    text-align: center;
+}
+
+
+
+
+
